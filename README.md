@@ -6,7 +6,16 @@ This project explains and demonstrates an afresh technique that can determine in
 
 Further details can be found in report.
 
+## Few Highlights 
+* Successfully measured Heart Rate Variability and breathing rate of a person 50 cm away using Radar
+* Developed an algorithm based on Joint Optimization to extract HRV from RF signals with the aim of
+recognizing emotions of a person
+* Developed an algorithm to identify the frequency of a moving object using Continuous Wave Radar
+*	Employed Cubic Spline interpolation
+
+## about
+Textfiles contains radar's raw data of a moving plate with maximum displacement and frequency. Original heartbeat data is not included here. Each version has different updates which commented in the code itselves.
+
 ## Packages
 sudo apt-get install python-numpy python-scipy python-matplotlib
 http://www.holoborodko.com/pavel/numerical-methods/numerical-derivative/smooth-low-noise-differentiators/
-
