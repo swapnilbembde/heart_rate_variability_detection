@@ -1,4 +1,3 @@
-# cculab_intern
 # Algorithm for Heartbeat Detection
 
 ## Getting Started
@@ -18,4 +17,10 @@ Textfiles contains radar's raw data of a moving plate with maximum displacement 
 
 ## Packages
 sudo apt-get install python-numpy python-scipy python-matplotlib
-http://www.holoborodko.com/pavel/numerical-methods/numerical-derivative/smooth-low-noise-differentiators/
+
+## References
+* Mingmin Zhao, Fadel Adib, Dina Katabi. “Emotion Recognition using Wireless Signals”
+* F. Adib, H. Mao, Z. Kabelac, D. Katabi, and R. C. Miller. Smart homes that monitor breathing and heart rate. ACM, 2015
+* F. Adib and D. Katabi. See through walls with wifi! In Proceedings of the ACM SIGCOMM 2013, pages 75–86, New York, NY, USA, 2013. ACM
+* http://www.holoborodko.com/pavel/numerical-methods/numerical-derivative/smooth-low-noise-differentiators/
+* S. McKinley and M. Levine. Cubic spline interpolation. College of the Redwoods, 45(1):1049–1060, 1998
